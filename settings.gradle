@@ -1,0 +1,3 @@
+include ':LearningLibrary'
+include ':app'
+rootProject.name = "LibraryLearning"
